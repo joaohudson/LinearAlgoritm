@@ -42,7 +42,7 @@ int* LoadArray(const char* dir, int *size)
 	
 	return data;
 }
-//Retorna o maior elemento do arry:
+//Retorna o maior elemento do array:
 int FindMax(int ar[], int size)
 {
 	int aux = 0;
